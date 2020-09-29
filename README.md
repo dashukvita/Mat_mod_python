@@ -1,4 +1,3 @@
-# Mat_mod_python
 <h1> Mathematical modeling</h1>
 <div style="width:500px;
 border-top:3px solid #9EC1D4;
